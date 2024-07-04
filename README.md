@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LeoIvin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning web dev
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Engineering & Machine Learning
+- 🌱 I’m currently learning Computer Vision
+- 💞️ I’m looking to collaborate on anything software engineering related
 - 📫 How to reach me - leoivin
 
 <!---
